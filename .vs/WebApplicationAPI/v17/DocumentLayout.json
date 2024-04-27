@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sunny\\source\\repos\\WebApplicationAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D562DA4D-245F-4B2B-9E9E-D8610043191F}|WebApplicationAPI\\WebApplicationAPI.csproj|c:\\users\\sunny\\source\\repos\\webapplicationapi\\webapplicationapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D562DA4D-245F-4B2B-9E9E-D8610043191F}|WebApplicationAPI\\WebApplicationAPI.csproj|solutionrelative:webapplicationapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 284,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\sunny\\source\\repos\\WebApplicationAPI\\WebApplicationAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\sunny\\source\\repos\\WebApplicationAPI\\WebApplicationAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebApplicationAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAowHEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T18:35:28.454Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 116,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
